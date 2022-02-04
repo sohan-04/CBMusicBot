@@ -13,7 +13,7 @@
         "BOT_TOKEN": {
             "description": "your bot token from @BotFather",
             "required": true
-            "value":"5175995906:AAFcpZxWhYawkAQ_7Ddm3XFWNsTlHbZjXz8"
+        
         },
         "BOT_NAME": {
             "description": "your music bot name.",
